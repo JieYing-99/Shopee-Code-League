@@ -22,19 +22,19 @@ E-commerce platforms like Shopee always strive to ensure the correct listing and
 The dataset provided is the Shopee Product Detection Dataset. It contains more than 100,000 images which belong to the 42 most popular categories at Shopee.
 
 * csv files:
-<div align="center">
+<div align="left">
   train.csv
   <br><img src="images/train.png" alt="train" width="300">
 </div>
 <br>
-<div align="center">
+<div align="left">
   test.csv
   <br><img src="images/test.png" alt="test" width="300">
 </div>
 <br>
 
 * images:
-<div align="center">
+<div align="left">
   <img src="images/images.png" alt="images">
 </div>
 
