@@ -13,7 +13,7 @@ E-commerce platforms like Shopee always strive to ensure the correct listing and
 <h3>Task</h3>
 
 <ul>
-<li>Build a 42-class image classification model to classify images of products on Shopee.
+<li>Build a 42-class image classification model to classify images of products at Shopee.
 </li>
 </ul>
 
