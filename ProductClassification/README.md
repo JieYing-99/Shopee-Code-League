@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Product Recognition</h2>
+  <h2 align="center">Product Classification</h2>
   <img src="https://img.shields.io/badge/Image%20Classification-orange"/>
   <img src="https://img.shields.io/badge/Transfer%20Learning-success"/>
   <br>
