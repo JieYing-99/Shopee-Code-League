@@ -27,7 +27,9 @@ The performance of these providers is monitored regularly and each provider is h
 <div align="left">
   delivery_orders_march.csv
   <br><br><img src="images/data.png" alt="data" width="800">
-  <br>
+</div>
+<br>
+<div align="left">
   SLA_matrix.xlsx
   <br><br><img src="images/sla.png" alt="sla" width="700">
 </div>
