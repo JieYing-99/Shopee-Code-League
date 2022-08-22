@@ -13,4 +13,7 @@
     <li>
       <a href="https://github.com/JieYing-99/Shopee-Code-League/tree/main/ProductClassification">Product Classification</a>
     </li>
+    <li>
+      <a href="https://github.com/JieYing-99/Shopee-Code-League/tree/main/LogisticsPerformanceAnalytics">Logistics Performance Analytics</a>
+    </li>
 </ol>
